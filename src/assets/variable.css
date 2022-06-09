@@ -1,0 +1,20 @@
+:root{
+
+
+/* Color styles */
+--orange: #FF8C00;
+--blanc: #FEFEFE;
+--noir: #1A2023;
+
+/* Text-size styles */
+/* base size: fin (30px) */
+--fin: 1rem;
+--medium: 1.67rem;
+--titre: 3.33rem;
+
+ /*Font-family styles*/
+ --quick:'Quicksand';
+
+
+
+}
