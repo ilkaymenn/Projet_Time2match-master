@@ -11,7 +11,7 @@
           </div>
 
           <div class="col-start-2 col-end-4 row-start-1 row-end-3 m-48 flex flex-col">
-            <h1 class="text-center font-quicksand text-8xl font-semibold">Time<span class="text-Orangee">2</span>Match</h1>
+            <h1 class="text-center font-quicksand text-8xl font-semibold">Time<span class="text-Orangee">2</span>Match Ilkay</h1>
 
             <schearchView></schearchView>
 
